@@ -13,6 +13,135 @@
 *{
     padding: 0;   
 }
+h1{
+    font-family: Amatic SC; 
+    color: #688800; 
+    font-size: 36px; 
+    margin: 0;
+}
+.li{
+    background-color: #BFD087; 
+    color: #546B06;
+}
+.end h2{
+    font-family: Amatic SC; 
+    font-size: 64px; 
+    margin: 0;
+}
+.end p{
+    font-family: Roboto; 
+    margin-top: 0; 
+    margin-bottom: 0;
+}
+.end .colvo p{
+    font-family: Roboto; 
+    font-size: 24px; 
+    color: #688800;
+}
+.end .b1{
+    background: linear-gradient(320.69deg, #536614 15.36%, #97C20B 84.86%);
+    color: white; border: none;
+}
+.end .b2{
+    border: 1px solid #688800; 
+    color: #688800;
+    background-color: white; margin-left: 40px;
+}
+.maslo1 h3{
+    color: #688800;
+}
+.maslo2 h3{
+    color: #009246;
+}
+.maslo3 h3{
+    color:#D73A31;;
+}
+.maslo4 h3{
+    color:#E67F10;
+}
+.maslo1 .colvo2 p{
+    font-family: Roboto; 
+    font-size: 16px; 
+    color: #688800;
+}
+.maslo2 .colvo2 p{
+    font-family: Roboto; 
+    font-size: 16px; 
+    color: #009246;
+}
+.maslo3 .colvo2 p{
+    font-family: Roboto; 
+    font-size: 16px; 
+    color: #D73A31;
+}
+.maslo4 .colvo2 p{
+    font-family: Roboto; 
+    font-size: 16px; 
+    color: #E67F10;
+}
+.maslo1 .knopki2 .b1{
+    background: linear-gradient(320.69deg, #536614 15.36%, #97C20B 84.86%);
+    color: white; border: none;
+}
+.maslo1 .knopki2 .b2{
+    border: 1px solid #688800; 
+    color: #688800;
+    background-color: white;
+}
+.maslo2 .knopki2 button{
+    border: 1px solid #009246; 
+    color: #009246;
+}
+.maslo3 .knopki2 button{
+    border: 1px solid #D73A31; 
+    color: #D73A31;
+}
+.maslo4 .knopki2 button{
+    border: 1px solid #E67F10; 
+    color: #E67F10;
+}
+.maslo1 .vp{
+    color: #688800;
+}
+.maslo2 .vp{
+    color: #009246;
+}
+.maslo3 .vp{
+    color: #D73A31; 
+}
+.maslo4 .vp{
+    color: #E67F10;
+}
+.onas h2{
+    font-family: Amatic SC; 
+    font-size: 48px; 
+    text-align: center; 
+    margin-top: 80px;
+}
+.plavtext h5{
+    font-family: Amatic SC; 
+    font-size: 32px; 
+    margin-bottom: 30px;
+}
+.plavtext2 h5{
+    font-family: Amatic SC; 
+    font-size: 32px; 
+    margin-top: 0; 
+    margin-bottom: 25px;
+}
+.otziv h2{
+    font-family: Amatic SC; 
+    font-size: 48px; 
+    text-align: center;
+}
+.tonkblock h2{
+    font-family: Amatic SC;
+}
+.contact h2{
+    font-family: Amatic SC; 
+    font-size: 48px; 
+    text-align: center;
+}
 body{
     background-color: #f7f7f7;
 }
