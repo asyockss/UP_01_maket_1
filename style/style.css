@@ -28,6 +28,12 @@ h1{
     font-size: 64px; 
     margin: 0;
 }
+.s2 h2{
+    font-family: Amatic SC; 
+    font-size: 48px; 
+    text-align: center; 
+    margin-top: 10px;
+}
 .end p{
     font-family: Roboto; 
     margin-top: 0; 
